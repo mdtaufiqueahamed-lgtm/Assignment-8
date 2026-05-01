@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Giant Chittagong Bull",
+    "type": "Cow",
+    "breed": "Deshi",
+    "price": 125000,
+    "weight": "350kg",
+    "age": "2.5 years",
+    "location": "Chittagong",
+    "image": "https://images.unsplash.com/photo-1547400567-c1143891461f?q=80&w=1000&auto=format&fit=crop",
+    "description": "Powerful and healthy bull, raised with organic feed. Perfect for Qurbani."
+  },
+  {
+    "id": "2",
+    "name": "Black Bengal Beauty",
+    "type": "Goat",
+    "breed": "Black Bengal",
+    "price": 18000,
+    "weight": "18kg",
+    "age": "1.2 years",
+    "location": "Kushtia",
+    "image": "https://images.unsplash.com/photo-1524024973431-2ad916746881?q=80&w=1000&auto=format&fit=crop",
+    "description": "High-quality Black Bengal goat known for its superior meat quality."
+  },
+  {
+    "id": "3",
+    "name": "Shahiwal Master",
+    "type": "Cow",
+    "breed": "Shahiwal",
+    "price": 210000,
+    "weight": "550kg",
+    "age": "3 years",
+    "location": "Pabna",
+    "image": "https://images.unsplash.com/photo-1570042225831-d98fa7577f1e?q=80&w=1000&auto=format&fit=crop",
+    "description": "A massive Shahiwal breed bull, well-tempered and disease-free."
+  },
+  {
+    "id": "4",
+    "name": "Jamunapari Special",
+    "type": "Goat",
+    "breed": "Jamunapari",
+    "price": 32000,
+    "weight": "25kg",
+    "age": "1.8 years",
+    "location": "Rajshahi",
+    "image": "https://images.unsplash.com/photo-1533318087102-b3ad366ed041?q=80&w=1000&auto=format&fit=crop",
+    "description": "Tall and beautiful Jamunapari goat, ideal for sacrificial purposes."
+  },
+  {
+    "id": "5",
+    "name": "Red Chittagong Bull",
+    "type": "Cow",
+    "breed": "RCC",
+    "price": 95000,
+    "weight": "280kg",
+    "age": "2 years",
+    "location": "Comilla",
+    "image": "https://images.unsplash.com/photo-1543852786-1cf6624b9987?q=80&w=1000&auto=format&fit=crop",
+    "description": "Active and shiny Red Chittagong Cattle, very popular for Qurbani."
+  },
+  {
+    "id": "6",
+    "name": "White Desert Camel",
+    "type": "Camel",
+    "breed": "Arabian",
+    "price": 450000,
+    "weight": "600kg",
+    "age": "5 years",
+    "location": "Dhaka (Imported)",
+    "image": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?q=80&w=1000&auto=format&fit=crop",
+    "description": "Exclusive Arabian camel for those looking for something unique this Eid."
+  }
+]
