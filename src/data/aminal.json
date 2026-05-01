@@ -1,6 +1,29 @@
 [
   {
     "id": "1",
+    "name": "Brahman Red Bull",
+    "type": "Cow",
+    "breed": "Brahman",
+    "price": 280000,
+    "weight": "650kg",
+    "location": "Pabna",
+    "image": "https://loremflickr.com/800/600/bull,cow",
+    "description": "Powerful and healthy red bull."
+  },
+  {
+    "id": "2",
+    "name": "Desert Camel Gold",
+    "type": "Camel",
+    "breed": "Arabian",
+    "price": 750000,
+    "weight": "850kg",
+    "location": "Dhaka",
+    "image": "https://loremflickr.com/800/600/camel",
+    "description": "Majestic Arabian camel."
+  },
+  
+  {
+    "id": "3",
     "name": "Giant Chittagong Bull",
     "type": "Cow",
     "breed": "Deshi",
@@ -12,7 +35,7 @@
     "description": "Powerful and healthy bull, raised with organic feed. Perfect for Qurbani."
   },
   {
-    "id": "2",
+    "id": "4",
     "name": "Black Bengal Beauty",
     "type": "Goat",
     "breed": "Black Bengal",
@@ -24,7 +47,7 @@
     "description": "High-quality Black Bengal goat known for its superior meat quality."
   },
   {
-    "id": "3",
+    "id": "5",
     "name": "Shahiwal Master",
     "type": "Cow",
     "breed": "Shahiwal",
@@ -36,7 +59,7 @@
     "description": "A massive Shahiwal breed bull, well-tempered and disease-free."
   },
   {
-    "id": "4",
+    "id": "6",
     "name": "Jamunapari Special",
     "type": "Goat",
     "breed": "Jamunapari",
@@ -48,7 +71,7 @@
     "description": "Tall and beautiful Jamunapari goat, ideal for sacrificial purposes."
   },
   {
-    "id": "5",
+    "id": "7",
     "name": "Red Chittagong Bull",
     "type": "Cow",
     "breed": "RCC",
@@ -60,7 +83,7 @@
     "description": "Active and shiny Red Chittagong Cattle, very popular for Qurbani."
   },
   {
-    "id": "6",
+    "id": "8",
     "name": "White Desert Camel",
     "type": "Camel",
     "breed": "Arabian",
@@ -70,5 +93,50 @@
     "location": "Dhaka (Imported)",
     "image": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?q=80&w=1000&auto=format&fit=crop",
     "description": "Exclusive Arabian camel for those looking for something unique this Eid."
+  },
+
+  {
+    "id": "9",
+    "name": "Fat Tail Dumba",
+    "type": "Dumba",
+    "breed": "Najdi",
+    "price": 135000,
+    "weight": "55kg",
+    "location": "Dhaka",
+    "image": "https://loremflickr.com/800/600/ram",
+    "description": "Healthy Najdi Dumba."
+  },
+  {
+    "id": "10",
+    "name": "Australian Hybrid",
+    "type": "Cow",
+    "breed": "HF Hybrid",
+    "price": 425000,
+    "weight": "880kg",
+    "location": "Manikganj",
+    "image": "https://loremflickr.com/800/600/dairy,cow",
+    "description": "Giant Australian hybrid bull."
+  },
+  {
+    "id": "11",
+    "name": "Shahiwal King Bull",
+    "type": "Cow",
+    "breed": "Shahiwal",
+    "price": 320000,
+    "weight": "720kg",
+    "location": "Bogura",
+    "image": "https://loremflickr.com/800/600/ox",
+    "description": "Massive Shahiwal breed bull."
+  },
+  {
+    "id": "12",
+    "name": "White Arabian Camel",
+    "type": "Camel",
+    "breed": "Najdi",
+    "price": 680000,
+    "weight": "900kg",
+    "location": "Dhaka",
+    "image": "https://loremflickr.com/800/600/desert,camel",
+    "description": "Majestic white camel."
   }
 ]
